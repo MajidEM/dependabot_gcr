@@ -1,1 +1,1 @@
-FROM asia.gcr.io/google-containers/nginx-ingress-controller-ppc64le:0.9.0-beta.9
+FROM gcr.io/google-containers/debian-base-arm64:0.1
