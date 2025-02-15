@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/nodejs15
+FROM gcr.io/distroless/base-debian11:nonroot
