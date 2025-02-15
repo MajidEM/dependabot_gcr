@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base-debian11:nonroot
+FROM docker pull gcr.io/google-containers/debian-base:v1.0.0
