@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:nonroot
+FROM gcr.io/distroless/nodejs16:05031c4121c285167edaa2cc5550349b10eba04808e4c76350aa14f814d16c79
