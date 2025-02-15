@@ -15,6 +15,6 @@ updates:
 registries:
   google-container-registry:
     type: "docker-registry"
-    url: "https://gcr.io"
+    url: "us.gcr.io"
     username: "${{ secrets.GCR_USERNAME }}"
     password: "${{ secrets.GCR_PASSWORD }}"
