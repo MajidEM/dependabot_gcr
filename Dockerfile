@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/busybox:1.24
+FROM gcr.io/google-containers/busybox:1.27
