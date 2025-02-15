@@ -10,10 +10,10 @@ updates:
     schedule:
       interval: "daily"
     registries:
-      - google-container-registry
+      - google-artifact-registry
 
 registries:
-  google-container-registry:
+  google-artifact-registry:
     type: "docker-registry"
     url: "https://us.gcr.io"
     username: "${{ secrets.GCR_USERNAME }}"
